@@ -1,2 +1,5 @@
-# AC-please.py
-write a program that print yes for AC if temperature is greaer than 30
+t=int(input())
+if t>30:
+    print('yes')
+else:
+    print('no')
